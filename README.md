@@ -6,7 +6,7 @@
 
 </div>
 
-I'm Hajer and I'm software engineering student. I am eager to continue learning and developing my skills, I am looking forward to finding an internship where I can make a good impact while also growing as an entry-level developer.
+I'm Hajer and I'm Data Scientist and Software Developer . I combine technical skills with psychological insights to simplify complex data and deliver actionable results. In addition to my work in data science, I develop web solutions that enhance user experiences and drive efficiency. Whether building intuitive interfaces or optimizing back-end systems, I ensure that technology meets real-world needs.
 
 ## Connect with Me
 
